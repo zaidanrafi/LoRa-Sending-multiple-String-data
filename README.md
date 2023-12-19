@@ -14,4 +14,4 @@ Library must be included:
 ![lora_library](https://github.com/zaidanrafi/LoRa-Sending-multiple-String-data/assets/41849571/518e4284-c626-4bb0-99ee-07f767a5fbf7)
 
 
-All done, You're good to go! :)
+All done, You're good to go!
