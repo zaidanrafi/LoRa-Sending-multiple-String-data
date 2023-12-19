@@ -1,4 +1,4 @@
-# Sending multiple data using LoRa
+# Sending multiple data using LoRa and ESP32
 
 1. Transmitter file: Read potentiometer value, boolean data, and string text then merge all the data and send to LoRa receiver.
 
